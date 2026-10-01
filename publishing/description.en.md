@@ -81,6 +81,9 @@ For bugs, include the CK3 and mod versions, enabled DLCs, load order, steps, a s
 
 ## Find Your Own Hegemony elsewhere
 
+- [Steam Workshop]({{HEGEMONY_STEAM_URL}})
+- [Paradox Mods]({{HEGEMONY_PARADOX_URL}})
+- [Nexus Mods]({{HEGEMONY_NEXUS_URL}})
 - [GitHub]({{HEGEMONY_GITHUB_URL}})
 
 ## My mods

@@ -81,6 +81,9 @@ For bugs, include the CK3 and mod versions, enabled DLCs, load order, steps, a s
 
 ## Find Your Own Hegemony elsewhere
 
+- [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3811201582)
+- [Paradox Mods](https://mods.paradoxplaza.com/mods/161501/Any)
+- [Nexus Mods](https://www.nexusmods.com/crusaderkings3/mods/401)
 - [GitHub](https://github.com/G4VV4KH/-CK3-Your-Own-Hegemony)
 
 ## My mods
