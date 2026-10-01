@@ -2,7 +2,7 @@
 
 ## At a glance
 
-- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.3 (Crozier)**. Upstream comparison and focused source checks passed; gameplay playtest baseline: **1.20.0.2**.
+- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.3 (Crozier)**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
 - 🟢 **Nine languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
@@ -54,19 +54,13 @@ Enable one copy only. When updating from **Custom Hegemony**, the internal insta
 
 **Vanilla file replacements: none.** The mod adds its own files and needs no companion mod or special order when used alone. Other mods changing the same mechanics can still need compatibility work; no total-conversion or hegemony-mod compatibility is claimed.
 
-The recorded playtest used **All Under Heaven**. No explicit DLC gate was found in this mod or the vanilla helpers it uses, so no mandatory DLC has been established. Operation with that DLC disabled has not been separately tested.
+No mandatory DLC has been established. Play without **All Under Heaven** has not been verified.
 
-## Saves and tested scope
+## Saves and known limits
 
 Back up a save before changing its mod list. **Removal after founding a hegemony is untested.** Special title succession laws are not explicitly copied; inspect the new title's succession before relying on elective or other special arrangements.
 
-Creation and subsequent **clan-partition succession** were checked with **0.1.2 on CK3 1.20.0.2**: all **347 realm counties** were preserved, and junior heirs inheriting empires remained the hegemon's vassals. Version **0.1.3** changes the displayed name and completes nine-language text coverage; gameplay scripts are unchanged.
-
-For **CK3 1.20.0.3**, upstream comparison and focused static checks passed: the native title-creation dependencies are unchanged, and all 14 requirement/live-counter cases pass. No gameplay-script update was needed. A fresh 1.20.0.3 in-game playtest has not been performed.
-
-English decision, rank-gained and de jure-map screenshots have been reviewed, including the exact resource cost. Their installed mod version is not visible; the map image does not independently verify the save's title structure.
-
-The two-empire path, incorporation of unheld empires, other governments, special/elective succession, multiplayer and all nine languages' in-game rendering remain unverified. Exact old/new map-color equality was not established by the supplied save comparisons.
+The two-empire path, incorporation of unheld empires, governments other than clan, special/elective succession and multiplayer remain unverified in play.
 
 ## Credits and creation
 
