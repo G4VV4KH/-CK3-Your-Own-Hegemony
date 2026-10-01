@@ -1,6 +1,6 @@
 # Contributing to Your Own Hegemony
 
-Your Own Hegemony 0.1.3 targets CK3 1.20.* with a checked baseline of 1.20.0.2 (Crozier). Runtime source lives in `mod/custom_hegemony/`; source checks and recorded gameplay evidence are in `tests/custom_hegemony/`. Keep changes focused and distinguish static checks from observed game behavior.
+Your Own Hegemony 0.1.3 targets CK3 1.20.0.3 (Crozier), with `1.20.*` descriptor support. Upstream comparison and focused static checks passed for 1.20.0.3; recorded gameplay evidence remains from 1.20.0.2. Runtime source lives in `mod/custom_hegemony/`; source checks and recorded gameplay evidence are in `tests/custom_hegemony/`. Keep changes focused and distinguish static checks from observed game behavior.
 
 ## Source and public documentation
 
@@ -34,6 +34,8 @@ Replace the game path for your installation. The checker also accepts `--mod` fo
 The interpreter covers selected trigger and count behavior. It does not emulate all CK3 syntax, title creation, engine callbacks or succession. Runtime changes need the relevant scenarios from [SMOKE.md](tests/custom_hegemony/SMOKE.md), with the actual mod/game versions, DLCs, playset, save and observed result recorded.
 
 ## Evidence and current limits
+
+The [1.20.0.3 compatibility audit](docs/COMPATIBILITY-1.20.0.3.md) found no required runtime patch: 38 relevant upstream files and the nine reachable native helper definitions remain unchanged, and the existing focused source checks pass against the installed update. No fresh engine run was performed. Compatibility prose changed; runtime scripts, descriptors and distributed ZIPs did not.
 
 The 0.1.2 playtest on CK3 1.20.0.2 confirmed creation and subsequent clan-partition succession for the same hegemony, preserving the exact set of 347 counties. Junior heirs retained their empires as vassals of the new hegemon. The coronation state changed to `uncrowned`, so the entire realm-law state must not be described as unchanged. The game log was not globally clean; the scoped run had no `chg_` errors.
 

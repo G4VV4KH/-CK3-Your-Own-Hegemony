@@ -2,7 +2,7 @@
 
 ## At a glance
 
-- 🟢 **Version 0.1.3** · Targets CK3 **1.20.***; checked baseline: **1.20.0.2 (Crozier)**.
+- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.3 (Crozier)**. Upstream comparison and focused source checks passed; gameplay playtest baseline: **1.20.0.2**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
 - 🟢 **Nine languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
@@ -62,7 +62,9 @@ Back up a save before changing its mod list. **Removal after founding a hegemony
 
 Creation and subsequent **clan-partition succession** were checked with **0.1.2 on CK3 1.20.0.2**: all **347 realm counties** were preserved, and junior heirs inheriting empires remained the hegemon's vassals. Version **0.1.3** changes the displayed name and completes nine-language text coverage; gameplay scripts are unchanged.
 
-Source checks pass. English decision, rank-gained and de jure-map screenshots have been reviewed, including the exact resource cost. Their installed mod version is not visible; the map image does not independently verify the save's title structure.
+For **CK3 1.20.0.3**, upstream comparison and focused static checks passed: the native title-creation dependencies are unchanged, and all 14 requirement/live-counter cases pass. No gameplay-script update was needed. A fresh 1.20.0.3 in-game playtest has not been performed.
+
+English decision, rank-gained and de jure-map screenshots have been reviewed, including the exact resource cost. Their installed mod version is not visible; the map image does not independently verify the save's title structure.
 
 The two-empire path, incorporation of unheld empires, other governments, special/elective succession, multiplayer and all nine languages' in-game rendering remain unverified. Exact old/new map-color equality was not established by the supplied save comparisons.
 
