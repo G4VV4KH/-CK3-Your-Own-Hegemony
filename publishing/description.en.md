@@ -74,38 +74,18 @@ Design and playtesting: **G4VV4KH**. Code, translations, cover artwork and publi
 
 For bugs, include the CK3 and mod versions, enabled DLCs, load order, steps, a screenshot and the affected save if possible.
 
-- [Source and issue reports](https://github.com/G4VV4KH/-CK3-Your-Own-Hegemony)
-- **Email:** g4vv4kh@gmail.com
+- [Source and issue reports]({{HEGEMONY_GITHUB_URL}})
+- **Email:** {{CONTACT_EMAIL}}
 
-### [Want to support my work? Donate on Ko-fi 💛](https://ko-fi.com/g4vv4kh)
+### [Want to support my work? Donate on Ko-fi 💛]({{DONATION_URL}})
 
 ## Find Your Own Hegemony elsewhere
 
-- [GitHub](https://github.com/G4VV4KH/-CK3-Your-Own-Hegemony)
+- [GitHub]({{HEGEMONY_GITHUB_URL}})
 
 ## My mods
 
 These companions are optional; neither is required by Your Own Hegemony.
 
-- [Parley: The Negotiating Table](https://steamcommunity.com/sharedfiles/filedetails/?id=3811090081) — negotiate complete diplomatic agreements.
-- [Marriage Calculation Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=3811100163) — compare marriage candidates with readable scores and sorting.
-
-## Screenshots
-
-Reviewed English screenshots; the installed mod version is not visible.
-
-![Found a New Hegemony: review the effects, requirements and resource cost before confirming.](docs/images/01-decision.jpg)
-
-Found a New Hegemony: review the effects, requirements and resource cost before confirming.
-
-![Rank gained: the ruler now holds the Ayyubid Hegemony as the primary title.](docs/images/02-hegemon-ruler.jpg)
-
-Rank gained: the ruler now holds the Ayyubid Hegemony as the primary title.
-
-![Hegemonies, De Jure map mode shows the new Ayyubid hegemony.](docs/images/03-de-jure-hegemony.jpg)
-
-Hegemonies, De Jure map mode shows the new Ayyubid hegemony.
-
-## Contributing
-
-See [dev.md](dev.md) for the source layout, checks and contribution workflow.
+- [Parley: The Negotiating Table]({{PARLEY_STEAM_URL}}) — negotiate complete diplomatic agreements.
+- [Marriage Calculation Assistant]({{MCA_STEAM_URL}}) — compare marriage candidates with readable scores and sorting.
