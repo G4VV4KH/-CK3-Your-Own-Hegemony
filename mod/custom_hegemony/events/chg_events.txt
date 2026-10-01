@@ -1,0 +1,14 @@
+﻿namespace = chg
+
+chg.0001 = {
+	type = character_event
+	title = chg.0001.t
+	desc = chg.0001.desc
+	theme = coronation
+	left_portrait = {
+		character = root
+		animation = personality_greedy
+	}
+	immediate = { play_music_cue = "mx_cue_positive_effect" }
+	option = { name = chg.0001.a }
+}

@@ -1,0 +1,34 @@
+﻿# Title scope. Administrative offices and other landless titles are not crowns.
+chg_eligible_empire_trigger = {
+	tier = tier_empire
+	is_landless_type_title = no
+}
+
+# Character scope. Realm size means counties, including vassal counties.
+# Both paths require several personally held empires. The 80/120 county
+# requirements of vanilla custom empires are scaled by three to 240/360.
+chg_realm_requirement_trigger = {
+	OR = {
+		AND = {
+			custom_description = {
+				text = chg_three_empires_held_tt
+				any_held_title = {
+					count >= 3
+					chg_eligible_empire_trigger = yes
+				}
+			}
+			# Native localization includes both the target and CURRENT_VALUE.
+			sub_realm_size >= 240
+		}
+		AND = {
+			custom_description = {
+				text = chg_two_empires_held_tt
+				any_held_title = {
+					count >= 2
+					chg_eligible_empire_trigger = yes
+				}
+			}
+			sub_realm_size >= 360
+		}
+	}
+}

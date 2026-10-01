@@ -1,0 +1,11 @@
+﻿# Character scope. A live UI value; uses the same title filter as the decision.
+# The decision's custom_description uses GetPlayer.MakeScope, matching vanilla
+# favour_the_countryside_basques_decision. THIS is not bound by this renderer.
+# This value is display-only; AI/character eligibility uses the actual trigger.
+chg_held_empire_count_value = {
+	value = 0
+	every_held_title = {
+		limit = { chg_eligible_empire_trigger = yes }
+		add = 1
+	}
+}
