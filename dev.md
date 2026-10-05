@@ -8,10 +8,10 @@ Your Own Hegemony 0.1.3 targets CK3 1.20.0.3 (Crozier), with `1.20.*` descriptor
 - `mod/custom_hegemony/README.md`: preserved development history and implementation details; dated entries describe their original state.
 - `tests/custom_hegemony/check_source.py`: limited source interpreter and consistency checks.
 - `tests/custom_hegemony/SMOKE.md`: runtime scenarios, completed checks and evidence limits.
-- `publishing/description.en.md`: canonical public description; the release workspace renders it into the root README and platform formats.
+- `publishing/description.en.md`: published projection of the canonical public description; do not maintain it independently.
 - `docs/images/`: reviewed screenshots used by the public README.
 
-The local release workspace holds the publication renderer, platform links, deterministic packaging tools, deployment pack and platform journals. Edit the canonical description rather than generated platform outputs. Keep functional facts identical across formats; platform-specific presentation and verified links may differ.
+The local release workspace holds the publication renderer, platform links, deterministic packaging tools, deployment pack and platform journals. Its release registry identifies the editable canonical description in the current metadata revision's `02-TEXT/description.en.md`; older deployment packs remain frozen. The renderer reads that file together with `10-GITHUB-DEV.md` and `11-PUBLICATION-LINKS.json`, then writes a separate output directory. Keep functional facts identical across formats; platform-specific presentation and verified links may differ.
 
 ## Gameplay boundaries
 

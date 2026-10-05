@@ -64,7 +64,7 @@ The two-empire path, incorporation of unheld empires, governments other than cla
 
 ## Credits and creation
 
-Design and playtesting: **G4VV4KH**. Code, translations, cover artwork and publication text were created with generative AI from the author's design and direction. Localized decision and event prose adapts the corresponding vanilla CK3 text.
+Design and playtesting: **G4VV4KH**. Code, translations, cover artwork and publication text were created with generative AI under the author's direction. Localized decision and event prose adapts vanilla CK3 text.
 
 ## Feedback and support
 
@@ -84,10 +84,11 @@ For bugs, include the CK3 and mod versions, enabled DLCs, load order, steps, a s
 
 ## My mods
 
-These companions are optional; neither is required by Your Own Hegemony.
-
 - [Parley: The Negotiating Table](https://steamcommunity.com/sharedfiles/filedetails/?id=3811090081) — negotiate complete diplomatic agreements.
 - [Marriage Calculation Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=3811100163) — compare marriage candidates with readable scores and sorting.
+- [Vassalization Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=3813943691) — choose the terms of forced vassalization without a target county limit.
+
+These mods are optional. [AGOT: Marriage Calculation Assistant](https://github.com/G4VV4KH/-CK3-AGOT-Marriage-Calculation-Assistant) remains on hold for CK3 1.20.
 
 ## Screenshots
 
