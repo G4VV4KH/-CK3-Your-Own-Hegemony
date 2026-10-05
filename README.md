@@ -2,10 +2,10 @@
 
 ## At a glance
 
-- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.3 (Crozier)**.
+- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.3**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
-- 🟢 **Nine languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
+- 🟢 **Languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
 - 🔴 **Changes gameplay:** creates a new title and reorganizes eligible empires de jure; AI rulers can use the same decision.
 - 🔴 **Total conversions and other hegemony-formation mods are untested.** Removal after founding and multiplayer are unverified.
 
@@ -62,33 +62,35 @@ Back up a save before changing its mod list. **Removal after founding a hegemony
 
 The two-empire path, incorporation of unheld empires, governments other than clan, special/elective succession and multiplayer remain unverified in play.
 
-## Credits and creation
-
-Design and playtesting: **G4VV4KH**. Code, translations, cover artwork and publication text were created with generative AI under the author's direction. Localized decision and event prose adapts vanilla CK3 text.
-
 ## Feedback and support
 
 For bugs, include the CK3 and mod versions, enabled DLCs, load order, steps, a screenshot and the affected save if possible.
 
-- [Source and issue reports](https://github.com/G4VV4KH/-CK3-Your-Own-Hegemony)
-- **Email:** g4vv4kh@gmail.com
+[Report an issue on GitHub](https://github.com/G4VV4KH/-CK3-Your-Own-Hegemony/issues)
+
+Email: g4vv4kh@gmail.com
 
 ### [Want to support my work? Donate on Ko-fi 💛](https://ko-fi.com/g4vv4kh)
 
-## Find Your Own Hegemony elsewhere
+## Find this mod elsewhere
 
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3811201582)
 - [Paradox Mods](https://mods.paradoxplaza.com/mods/161501/Any)
 - [Nexus Mods](https://www.nexusmods.com/crusaderkings3/mods/401)
 - [GitHub](https://github.com/G4VV4KH/-CK3-Your-Own-Hegemony)
 
-## My mods
+## My other mods
 
-- [Parley: The Negotiating Table](https://steamcommunity.com/sharedfiles/filedetails/?id=3811090081) — negotiate complete diplomatic agreements.
-- [Marriage Calculation Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=3811100163) — compare marriage candidates with readable scores and sorting.
-- [Vassalization Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=3813943691) — choose the terms of forced vassalization without a target county limit.
+- [Parley: The Negotiating Table](https://steamcommunity.com/sharedfiles/filedetails/?id=3811090081) — negotiate diplomatic agreements.
+- [Marriage Calculation Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=3811100163) — compare and sort marriage candidates.
+- [Vassalization Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=3813943691) — choose Forced Vassalization terms without a county limit.
+- [Court Automation](https://steamcommunity.com/sharedfiles/filedetails/?id=3814028714) — automate court positions and recruit courtiers or knights.
 
-These mods are optional. [AGOT: Marriage Calculation Assistant](https://github.com/G4VV4KH/-CK3-AGOT-Marriage-Calculation-Assistant) remains on hold for CK3 1.20.
+These mods are optional.
+
+## Credits
+
+Design and playtesting: **G4VV4KH**. Code, translations, cover artwork and publication text were created with generative AI under the author's direction. Localized decision and event prose adapts vanilla CK3 text.
 
 ## Screenshots
 
