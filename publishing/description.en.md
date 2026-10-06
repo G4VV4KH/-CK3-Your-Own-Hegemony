@@ -2,7 +2,7 @@
 
 ## At a glance
 
-- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.3**.
+- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.4**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
 - 🟢 **Languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
