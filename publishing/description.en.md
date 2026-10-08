@@ -2,7 +2,7 @@
 
 ## At a glance
 
-- 🟢 **Version 0.1.3** · Targets CK3 **1.20.0.4**.
+- 🟢 **Version 0.1.4** · Targets CK3 **1.20.0.4**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
 - 🟢 **Languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
@@ -86,6 +86,7 @@ Email: {{CONTACT_EMAIL}}
 - [Vassalization Extended]({{VE_STEAM_URL}}) — choose Forced Vassalization terms without a county limit.
 - [Court Automation]({{COURT_STEAM_URL}}) — automate court positions and recruit courtiers or knights.
 - [Nomad Autorefill](https://steamcommunity.com/sharedfiles/filedetails/?id=3814793283) — automatically reinforce nomadic Men-at-Arms using herd or gold.
+- [Tax Collection Automation](https://steamcommunity.com/sharedfiles/filedetails/?id=3815381275) — automatically assign tax collectors and optimize tax jurisdictions.
 
 These mods are optional.
 

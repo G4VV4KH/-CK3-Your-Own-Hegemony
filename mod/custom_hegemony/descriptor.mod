@@ -1,4 +1,4 @@
-version="0.1.3"
+version="0.1.4"
 name="Your Own Hegemony [1.20]"
 tags={
 	"1.20 'Crozier'"

@@ -13,5 +13,5 @@
  chg_uncreated_empires_tt:0 "Les empires non créés dont vous contrôlez entièrement le territoire de jure font également partie de l’hégémonie"
  chg_keep_empires_tt:0 "Vous conservez vos titres impériaux existants"
  chg.0001.t:0 "$major_decisions.1101.t$"
- chg.0001.desc:0 "Toute ma vie j’ai œuvré dans ce but. Appeler mes vassaux et leur faire jurer fidélité.\n\nMaintenant et pour toujours, ils me rendront hommage non seulement en tant que leur [ROOT.Char.Custom('FR_SeigneurDame')] lige, mais aussi de [ROOT.Char.GetTitleAsNameNoTooltip] de [chg_new_hegemony.GetNameNoTier] !"
+ chg.0001.desc:0 "Toute ma vie j’ai œuvré dans ce but. Appeler mes vassaux et leur faire jurer fidélité.\n\nMaintenant et pour toujours, ils me rendront hommage non seulement en tant que leur [ROOT.Char.Custom('FR_SeigneurDame')] lige, mais aussi en tant que [ROOT.Char.GetTitleAsNameNoTooltip] de [chg_new_hegemony.GetNameNoTier] !"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip] règne en maître !"

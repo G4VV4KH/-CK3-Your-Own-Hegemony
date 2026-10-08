@@ -1,6 +1,6 @@
 # Contributing to Your Own Hegemony
 
-Your Own Hegemony 0.1.3 targets CK3 1.20.0.3 (Crozier), with `1.20.*` descriptor support. Upstream comparison and focused static checks passed for 1.20.0.3; recorded gameplay evidence remains from 1.20.0.2. Runtime source lives in `mod/custom_hegemony/`; source checks and recorded gameplay evidence are in `tests/custom_hegemony/`. Keep changes focused and distinguish static checks from observed game behavior.
+Your Own Hegemony 0.1.4 targets CK3 1.20.0.4 (Crozier), with `1.20.*` descriptor support. This isolated release candidate changes only the French founding-event complement and the descriptor version from the published 0.1.3 payload. Its complete candidate-bound localization gate passed for all nine supported CK3 languages: all 144 authored language/key cells and the required event and decision contexts were verified. The accepted report is bound to the exact 16-file 0.1.4 runtime; visual-layout coverage remains separately limited. Historical evidence below retains its original scope; it is not a new gameplay acceptance claim. Runtime source lives in `mod/custom_hegemony/`; source checks and recorded gameplay evidence are in `tests/custom_hegemony/`.
 
 ## Source and public documentation
 
