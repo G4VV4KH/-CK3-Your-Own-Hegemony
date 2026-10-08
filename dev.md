@@ -52,3 +52,7 @@ The local DEV descriptor may have the exact `[DEV] ` name prefix. Public artifac
 Steam uses the prepared runtime directory. Paradox receives a ZIP with `descriptor.mod` and runtime folders directly at the root. Nexus manual downloads use the mod folder, a sibling portable `.mod` wrapper and `INSTALL.txt`. Verify archive members and downloaded payloads, then append evidence to the dev-to-game and individual platform journals; a successful upload is not download verification. Documentation-only changes can require a GitHub update without changing the game package.
 
 For a contribution, explain the player-visible change, affected files, relevant checks and remaining untested cases. Preserve all nine language keys and formatting tokens. No additional open-source license or redistribution permission is granted by this deployment preparation; platform terms and author permissions remain separate.
+
+## CAA family metadata revision
+
+The current publication copy includes all seven other maintained mods, with Steam Workshop links. Update only the canonical My other mods block and project that block into the existing README and platform outputs; preserve the rest of each platform description. Parley and Vassalization Extended Steam exports use whitespace-only BBCode compaction to remain within the 8,000-byte UTF-8 CRLF form limit. Recheck the current shared publication contract and scoped release metadata guide before publishing. Runtime, version, archives, media, and prior localization evidence are unchanged.
