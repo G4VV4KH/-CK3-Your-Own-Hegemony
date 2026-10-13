@@ -2,11 +2,11 @@
 
 ## At a glance
 
-- 🟢 **Version 0.1.4** · Targets CK3 **1.20.0.4**.
+- 🟢 **Version 0.1.5** · Targets CK3 **1.20.1**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
 - 🟢 **Languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
-- 🔴 **Changes gameplay:** creates a new title and reorganizes eligible empires de jure; AI rulers can use the same decision.
+- 🔴 **Changes gameplay:** creates a new title and reorganizes eligible empires de jure; eligible AI rulers can use the decision when the game rule allows it.
 - 🔴 **Total conversions and other hegemony-formation mods are untested.** Removal after founding and multiplayer are unverified.
 
 ## An empire is only the beginning
@@ -33,13 +33,24 @@ Meet either realm requirement:
 
 Counties include your vassals' land, not just your personal domain. Baronies and landless imperial offices do not count toward these requirements.
 
-Be an **independent, available adult emperor at peace**, outside a confederation, with a landed empire as your primary title and **fame level 5**. Nomadic rulers also need the highest nomadic authority. Existing hegemons do not receive the decision.
+Be an **independent, available adult emperor at peace**, outside a territorial confederation, with a landed empire as your primary title and **fame level 5**. Nomadic rulers also need the highest nomadic authority. Existing hegemons do not receive the decision.
 
 Your realm must have no active ceremonial liege: vanilla dissolves that institution when its top liege becomes a hegemon. The vanilla custom-kingdoms/empires rule must allow creation, and the imperial power projection check must pass.
 
 **Cost: 3,600 gold, 7,500 prestige and 1,800 piety.** Governments with a treasury pay treasury instead of gold. Nomadic rulers are exempt from gold and piety costs, following the vanilla decision pattern; their county requirements stay the same.
 
-AI emperors face the same requirements and check the decision every **60 months**.
+AI emperors face the same requirements and check the decision every **60 months** when permitted by the game rule. Japanese house-bloc membership alone does not block the decision.
+
+### Choose who may found a hegemony
+
+In **Game Rules**, set **Custom Hegemony Creation**:
+
+- **Everyone** (default): eligible player and AI rulers.
+- **Players Only**: eligible human-controlled rulers.
+- **AI Only**: eligible AI rulers.
+- **Nobody**: disables this mod’s founding decision.
+
+The rule leaves all other requirements and vanilla hegemony decisions unchanged. Choose it before starting a campaign.
 
 ## Getting started
 
@@ -60,7 +71,7 @@ No mandatory DLC has been established. Play without **All Under Heaven** has not
 
 Back up a save before changing its mod list. **Removal after founding a hegemony is untested.** Special title succession laws are not explicitly copied; inspect the new title's succession before relying on elective or other special arrangements.
 
-The two-empire path, incorporation of unheld empires, governments other than clan, special/elective succession and multiplayer remain unverified in play.
+Keep a backup when updating an existing campaign and check its recorded Custom Hegemony Creation rule; saves without the new setting have not been verified. The two-empire path, incorporation of unheld empires, other government-specific formation branches, special/elective succession and multiplayer remain unverified in play.
 
 ## Feedback and support
 

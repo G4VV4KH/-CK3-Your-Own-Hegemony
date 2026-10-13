@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "Вся моя жизнь ушла на то, чтобы заново созвать всех моих вассалов и привести их к новой присяге.\n\nОтныне и навеки они будут кланяться мне не только как сюзерену. Теперь я их [ROOT.Char.GetTitleAsNameNoTooltip|l]! [ROOT.Char.GetTitleAsNameNoTooltip], чьи владения зовутся [chg_new_hegemony.GetNameNoTier]!"
  chg.0001.a:0 "Да воцарится [chg_new_hegemony.GetNameNoTierNoTooltip]!"
+
+ rule_chg_hegemony_creation:0 "Создание собственной гегемонии"
+ setting_chg_hegemony_everyone:0 "Все"
+ setting_chg_hegemony_everyone_desc:0 "Решение об основании собственной гегемонии доступно правителям под управлением игроков и ИИ. Все остальные требования сохраняются."
+ setting_chg_hegemony_players_only:0 "Только игроки"
+ setting_chg_hegemony_players_only_desc:0 "Решение об основании собственной гегемонии доступно только правителям под управлением игроков. Все остальные требования сохраняются."
+ setting_chg_hegemony_ai_only:0 "Только ИИ"
+ setting_chg_hegemony_ai_only_desc:0 "Решение об основании собственной гегемонии доступно только правителям под управлением ИИ. Все остальные требования сохраняются."
+ setting_chg_hegemony_nobody:0 "Никто"
+ setting_chg_hegemony_nobody_desc:0 "Решение об основании собственной гегемонии недоступно ни одному правителю."

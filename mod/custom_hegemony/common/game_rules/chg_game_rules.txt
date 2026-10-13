@@ -1,0 +1,10 @@
+﻿# Controls this mod's founding decision; vanilla hegemony decisions are unchanged.
+chg_hegemony_creation = {
+	categories = { historicity titles }
+	default = chg_hegemony_everyone
+
+	chg_hegemony_nobody = { }
+	chg_hegemony_players_only = { }
+	chg_hegemony_ai_only = { }
+	chg_hegemony_everyone = { }
+}

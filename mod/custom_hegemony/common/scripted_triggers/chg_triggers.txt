@@ -4,6 +4,21 @@ chg_eligible_empire_trigger = {
 	is_landless_type_title = no
 }
 
+# Character scope. Player includes every human-controlled multiplayer character.
+chg_hegemony_creation_allowed_trigger = {
+	OR = {
+		has_game_rule = chg_hegemony_everyone
+		AND = {
+			has_game_rule = chg_hegemony_players_only
+			is_ai = no
+		}
+		AND = {
+			has_game_rule = chg_hegemony_ai_only
+			is_ai = yes
+		}
+	}
+}
+
 # Character scope. Realm size means counties, including vassal counties.
 # Both paths require several personally held empires. The 80/120 county
 # requirements of vanilla custom empires are scaled by three to 240/360.

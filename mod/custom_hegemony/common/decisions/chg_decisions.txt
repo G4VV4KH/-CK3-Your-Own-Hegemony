@@ -15,9 +15,15 @@
 	}
 
 	is_shown = {
+		chg_hegemony_creation_allowed_trigger = yes
 		highest_held_title_tier = tier_empire
 		is_landed = yes
-		is_confederation_member = no
+		# Japanese house blocs also count as confederations. Only a territorial
+		# confederation prevents founding a hegemony; house membership does not.
+		OR = {
+			is_confederation_member = no
+			confederation ?= { is_house_based = yes }
+		}
 		NOT = { has_game_rule = off_custom_kingdoms }
 	}
 
@@ -81,6 +87,6 @@
 	effect = {
 		chg_create_custom_hegemony_effect = yes
 	}
-	ai_potential = { always = yes }
+	ai_potential = { chg_hegemony_creation_allowed_trigger = yes }
 	ai_will_do = { base = 100 }
 }

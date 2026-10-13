@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "All my life I have worked for this. To call my vassals and make them swear fealty anew.\n\nNow and forever, they will pay homage to me not only as their liege, but as [ROOT.Char.GetTitleAsNameNoTooltip]! [ROOT.Char.GetTitleAsNameNoTooltip] of [chg_new_hegemony.GetNameNoTier]!"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip] reigns supreme!"
+
+ rule_chg_hegemony_creation:0 "Custom Hegemony Creation"
+ setting_chg_hegemony_everyone:0 "Everyone"
+ setting_chg_hegemony_everyone_desc:0 "The decision to found a custom hegemony is available to both player and AI rulers. All other requirements still apply."
+ setting_chg_hegemony_players_only:0 "Players Only"
+ setting_chg_hegemony_players_only_desc:0 "The decision to found a custom hegemony is available only to player rulers. All other requirements still apply."
+ setting_chg_hegemony_ai_only:0 "AI Only"
+ setting_chg_hegemony_ai_only_desc:0 "The decision to found a custom hegemony is available only to AI rulers. All other requirements still apply."
+ setting_chg_hegemony_nobody:0 "Nobody"
+ setting_chg_hegemony_nobody_desc:0 "The decision to found a custom hegemony is unavailable to all rulers."

@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "Toute ma vie j’ai œuvré dans ce but. Appeler mes vassaux et leur faire jurer fidélité.\n\nMaintenant et pour toujours, ils me rendront hommage non seulement en tant que leur [ROOT.Char.Custom('FR_SeigneurDame')] lige, mais aussi en tant que [ROOT.Char.GetTitleAsNameNoTooltip] de [chg_new_hegemony.GetNameNoTier] !"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip] règne en maître !"
+
+ rule_chg_hegemony_creation:0 "Création d’hégémonies personnalisées"
+ setting_chg_hegemony_everyone:0 "Tout le monde"
+ setting_chg_hegemony_everyone_desc:0 "La décision de fonder une hégémonie personnalisée est accessible aux dirigeants contrôlés par les joueurs et par l’IA. Toutes les autres conditions restent applicables."
+ setting_chg_hegemony_players_only:0 "Joueurs uniquement"
+ setting_chg_hegemony_players_only_desc:0 "La décision de fonder une hégémonie personnalisée est réservée aux dirigeants contrôlés par les joueurs. Toutes les autres conditions restent applicables."
+ setting_chg_hegemony_ai_only:0 "IA uniquement"
+ setting_chg_hegemony_ai_only_desc:0 "La décision de fonder une hégémonie personnalisée est réservée aux dirigeants contrôlés par l’IA. Toutes les autres conditions restent applicables."
+ setting_chg_hegemony_nobody:0 "Personne"
+ setting_chg_hegemony_nobody_desc:0 "La décision de fonder une hégémonie personnalisée n’est accessible à aucun dirigeant."

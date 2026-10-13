@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "我的一生都为此奋斗。召集我的臣民更新他们的效忠誓言。\n\n此世及万世，我不再仅仅是作为他们的领主接受他们的致敬，更是作为[ROOT.Char.GetTitleAsNameNoTooltip]！[chg_new_hegemony.GetNameNoTier]的[ROOT.Char.GetTitleAsNameNoTooltip]！"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip]统治至上！"
+
+ rule_chg_hegemony_creation:0 "自建霸权"
+ setting_chg_hegemony_everyone:0 "所有人"
+ setting_chg_hegemony_everyone_desc:0 "玩家和AI控制的统治者均可使用自建霸权决议。其他所有条件仍须满足。"
+ setting_chg_hegemony_players_only:0 "仅玩家"
+ setting_chg_hegemony_players_only_desc:0 "仅玩家控制的统治者可使用自建霸权决议。其他所有条件仍须满足。"
+ setting_chg_hegemony_ai_only:0 "仅AI"
+ setting_chg_hegemony_ai_only_desc:0 "仅AI控制的统治者可使用自建霸权决议。其他所有条件仍须满足。"
+ setting_chg_hegemony_nobody:0 "无人"
+ setting_chg_hegemony_nobody_desc:0 "所有统治者均无法使用自建霸权决议。"

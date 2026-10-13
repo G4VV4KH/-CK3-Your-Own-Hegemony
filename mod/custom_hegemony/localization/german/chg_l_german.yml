@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "Mein ganzes Leben habe ich darauf hingearbeitet: meine Vasallen zu mir zu rufen, auf dass sie mir von Neuem die Treue schwören.\n\nJetzt und für immerdar werde ich nicht nur Lehnsherr für sie sein, nein, sondern [ROOT.Char.GetTitleAsNameNoTooltip]! [ROOT.Char.GetTitleAsNameNoTooltip] von [chg_new_hegemony.GetNameNoTier]!"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip] herrscht über allem!"
+
+ rule_chg_hegemony_creation:0 "Eigene Hegemonien gründen"
+ setting_chg_hegemony_everyone:0 "Alle"
+ setting_chg_hegemony_everyone_desc:0 "Die Entscheidung zur Gründung einer eigenen Hegemonie steht Herrschern unter Spieler- und KI-Kontrolle zur Verfügung. Alle anderen Voraussetzungen gelten weiterhin."
+ setting_chg_hegemony_players_only:0 "Nur Spieler"
+ setting_chg_hegemony_players_only_desc:0 "Die Entscheidung zur Gründung einer eigenen Hegemonie steht nur Herrschern unter Spielerkontrolle zur Verfügung. Alle anderen Voraussetzungen gelten weiterhin."
+ setting_chg_hegemony_ai_only:0 "Nur KI"
+ setting_chg_hegemony_ai_only_desc:0 "Die Entscheidung zur Gründung einer eigenen Hegemonie steht nur Herrschern unter KI-Kontrolle zur Verfügung. Alle anderen Voraussetzungen gelten weiterhin."
+ setting_chg_hegemony_nobody:0 "Niemand"
+ setting_chg_hegemony_nobody_desc:0 "Die Entscheidung zur Gründung einer eigenen Hegemonie steht keinem Herrscher zur Verfügung."

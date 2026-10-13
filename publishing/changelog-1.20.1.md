@@ -1,0 +1,1 @@
+Updated for CK3 1.20.1. Added Custom Hegemony Creation: Everyone (default), Players Only, AI Only or Nobody. The rule controls this mod’s decision for player and AI rulers; requirements and costs remain unchanged. Japanese house-bloc membership no longer blocks the decision by itself; territorial confederations remain excluded.

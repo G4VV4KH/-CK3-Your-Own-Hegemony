@@ -56,3 +56,11 @@ For a contribution, explain the player-visible change, affected files, relevant 
 ## CAA family metadata revision
 
 The current publication copy includes all seven other maintained mods, with Steam Workshop links. Update only the canonical My other mods block and project that block into the existing README and platform outputs; preserve the rest of each platform description. Parley and Vassalization Extended Steam exports use whitespace-only BBCode compaction to remain within the 8,000-byte UTF-8 CRLF form limit. Recheck the current shared publication contract and scoped release metadata guide before publishing. Runtime, version, archives, media, and prior localization evidence are unchanged.
+
+## Release 0.1.5 — CK3 1.20.1
+
+Your Own Hegemony [1.20] 0.1.5 — CK3 1.20.1
+
+Updated for CK3 1.20.1. Added Custom Hegemony Creation: Everyone (default), Players Only, AI Only or Nobody. The rule controls this mod’s decision for player and AI rulers; requirements and costs remain unchanged. Japanese house-bloc membership no longer blocks the decision by itself; territorial confederations remain excluded.
+
+Current publication follows contract 1.8.0: static localization coverage for all CK3 languages; tested development gameplay evidence may be inherited after exact source checks; no duplicate production run or mandatory Paradox/Nexus re-download. Older instructions above retain their historical scope. The committed runtime matches this release package. Evidence is scoped; this is not a blanket multiplayer, visual or full-campaign compatibility claim.

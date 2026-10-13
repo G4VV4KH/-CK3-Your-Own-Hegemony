@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "私は人生を掛けて、この時のために働いてきたのだ。家臣を呼び、改めて忠誠を誓わせる。\n\nこれからは、彼らは私を主君としてだけではなく、[ROOT.Char.GetTitleAsNameNoTooltip]としても敬うことになるのだ！ [chg_new_hegemony.GetNameNoTier]の[ROOT.Char.GetTitleAsNameNoTooltip]として！"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip]がここに君臨する！"
+
+ rule_chg_hegemony_creation:0 "カスタム覇権国の建国"
+ setting_chg_hegemony_everyone:0 "全員"
+ setting_chg_hegemony_everyone_desc:0 "プレイヤーとAIが操作する統治者は、カスタム覇権国を建国する決断を利用できます。その他の条件はすべて満たす必要があります。"
+ setting_chg_hegemony_players_only:0 "プレイヤーのみ"
+ setting_chg_hegemony_players_only_desc:0 "プレイヤーが操作する統治者のみ、カスタム覇権国を建国する決断を利用できます。その他の条件はすべて満たす必要があります。"
+ setting_chg_hegemony_ai_only:0 "AIのみ"
+ setting_chg_hegemony_ai_only_desc:0 "AIが操作する統治者のみ、カスタム覇権国を建国する決断を利用できます。その他の条件はすべて満たす必要があります。"
+ setting_chg_hegemony_nobody:0 "誰も不可"
+ setting_chg_hegemony_nobody_desc:0 "どの統治者も、カスタム覇権国を建国する決断を利用できません。"

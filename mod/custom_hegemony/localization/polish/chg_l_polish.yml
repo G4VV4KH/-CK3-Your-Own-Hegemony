@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "Praca nad tym, by moi wasale stawili się przede mną i na nowo ślubowali mi wierność, to dzieło całego mojego życia.\n\nOd teraz już zawsze będą składać mi hołd, lecz nie tylko jako swemu seniorowi. Jam jest [ROOT.Char.GetTitleAsNameNoTooltip]! [ROOT.Char.GetTitleAsNameNoTooltip] ziem o nazwie [chg_new_hegemony.GetNameNoTier]!"
  chg.0001.a:0 "[chg_new_hegemony.GetNameNoTierNoTooltip] to najpotężniejsze ziemie!"
+
+ rule_chg_hegemony_creation:0 "Tworzenie własnych hegemonii"
+ setting_chg_hegemony_everyone:0 "Wszyscy"
+ setting_chg_hegemony_everyone_desc:0 "Decyzja o założeniu własnej hegemonii jest dostępna dla władców sterowanych przez graczy i SI. Wszystkie pozostałe wymagania nadal obowiązują."
+ setting_chg_hegemony_players_only:0 "Tylko gracze"
+ setting_chg_hegemony_players_only_desc:0 "Decyzja o założeniu własnej hegemonii jest dostępna tylko dla władców sterowanych przez graczy. Wszystkie pozostałe wymagania nadal obowiązują."
+ setting_chg_hegemony_ai_only:0 "Tylko SI"
+ setting_chg_hegemony_ai_only_desc:0 "Decyzja o założeniu własnej hegemonii jest dostępna tylko dla władców sterowanych przez SI. Wszystkie pozostałe wymagania nadal obowiązują."
+ setting_chg_hegemony_nobody:0 "Nikt"
+ setting_chg_hegemony_nobody_desc:0 "Żaden władca nie może skorzystać z decyzji o założeniu własnej hegemonii."

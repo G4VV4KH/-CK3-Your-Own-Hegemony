@@ -15,3 +15,13 @@
  chg.0001.t:0 "$major_decisions.1101.t$"
  chg.0001.desc:0 "He trabajado toda la vida para esto. Convocaré a mis vasallos y haré que me vuelvan a jurar lealtad.\n\nAhora y siempre, me rendirán homenaje no solo como su [ROOT.Char.GetLadyLord], sino ¡como [ROOT.Char.GetTitleAsNameNoTooltip]! ¡[ROOT.Char.GetTitleAsNameNoTooltip] de [chg_new_hegemony.GetNameNoTier]!"
  chg.0001.a:0 "¡[chg_new_hegemony.GetNameNoTierNoTooltip] impera!"
+
+ rule_chg_hegemony_creation:0 "Creación de hegemonías personalizadas"
+ setting_chg_hegemony_everyone:0 "Todos"
+ setting_chg_hegemony_everyone_desc:0 "La decisión de fundar una hegemonía personalizada está disponible para los gobernantes controlados por jugadores y por la IA. Los demás requisitos siguen vigentes."
+ setting_chg_hegemony_players_only:0 "Solo jugadores"
+ setting_chg_hegemony_players_only_desc:0 "La decisión de fundar una hegemonía personalizada solo está disponible para los gobernantes controlados por jugadores. Los demás requisitos siguen vigentes."
+ setting_chg_hegemony_ai_only:0 "Solo la IA"
+ setting_chg_hegemony_ai_only_desc:0 "La decisión de fundar una hegemonía personalizada solo está disponible para los gobernantes controlados por la IA. Los demás requisitos siguen vigentes."
+ setting_chg_hegemony_nobody:0 "Nadie"
+ setting_chg_hegemony_nobody_desc:0 "La decisión de fundar una hegemonía personalizada no está disponible para ningún gobernante."
