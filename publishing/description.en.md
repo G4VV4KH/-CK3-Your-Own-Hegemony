@@ -11,9 +11,9 @@
 
 ## An empire is only the beginning
 
-Make late-game rule easier: unite your imperial crowns under a single hegemony, with a new primary title above empire rank.
+Make late-game rule easier: unite your imperial crowns under one hegemony, a new primary title above empire rank.
 
-Build on your realm's own identity. Your new hegemony takes its base name, coat of arms, map color and de jure capital from your former primary empire. You can rename it in the ordinary title window.
+The hegemony takes its base name, coat of arms, map color and de jure capital from your former primary empire. Rename it in the ordinary title window.
 
 ## What founding does
 
@@ -75,7 +75,7 @@ Keep a backup when updating an existing campaign and check its recorded Custom H
 
 ## Feedback and support
 
-For bugs, include the CK3 and mod versions, enabled DLCs, load order, steps, a screenshot and the affected save if possible.
+Report CK3/mod versions, DLCs, load order, steps, screenshot and affected save if possible.
 
 [Report an issue on GitHub]({{HEGEMONY_GITHUB_URL}}/issues)
 
@@ -103,6 +103,7 @@ Email: {{CONTACT_EMAIL}}
 - [Council Assignment Automation](https://steamcommunity.com/sharedfiles/filedetails/?id=3815689627) — automate council appointments and optimize councillor assignments.
 - [Strategist Assistant](https://steamcommunity.com/sharedfiles/filedetails/?id=3827659479) — plan armies, recruitment and wars.
 - [Title Domination](https://steamcommunity.com/sharedfiles/filedetails/?id=3828276945) — proclaim uncreated titles through diplomacy and war.
+- [Accolade Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3836819350) — choose accolade attributes or knights first and set rank limits.
 
 ### Compatibility patches
 
