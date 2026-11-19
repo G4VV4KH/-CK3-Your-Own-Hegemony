@@ -1,8 +1,8 @@
-# Your Own Hegemony [1.20]
+# Your Own Hegemony [1.21]
 
 ## At a glance
 
-- 🟢 **Version 0.1.5** · Targets CK3 **1.20.1.2**.
+- 🟢 **Version 0.1.6** · Targets CK3 **1.21.0.3**.
 - 🟢 **Standalone:** no other mod required.
 - 🟢 **Found a New Hegemony:** unite several imperial crowns under a new primary title above empire rank.
 - 🟢 **Languages:** English, French, German, Japanese, Korean, Polish, Russian, Simplified Chinese and Spanish.
@@ -54,7 +54,7 @@ The rule leaves all other requirements and vanilla hegemony decisions unchanged.
 
 ## Getting started
 
-1. Enable **Your Own Hegemony [1.20]** in your launcher playset. For a manual download, follow the archive's **INSTALL.txt**.
+1. Enable **Your Own Hegemony [1.21]** in your launcher playset. For a manual download, follow the archive's **INSTALL.txt**.
 2. As an eligible emperor, open **Decisions > Found a New Hegemony**.
 3. Review both requirement branches, effects and costs, then confirm.
 4. Inspect the new primary title and its succession. Use **Hegemonies, De Jure** map mode to see the new de jure realm.
